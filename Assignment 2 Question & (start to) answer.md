@@ -1,7 +1,7 @@
 # Using age data to report politicians' driving motivators
 ## An NBC News article reported on why members of the silent generation continue to seek re-election when voters favor age limits 
 
-The Department of Energy has removed $9.5 billion of subsidies for wind and solar projects, a senior advisor of the Department [announced]([url](https://www.energy.gov/edf/articles/letter-leadership-edf-2025-year-review-and-looking-forward-2026#_ftn1) Thursday.
+The Department of Energy has removed $9.5 billion of subsidies for wind and solar projects, a senior advisor of the Department [announced]([url](https://www.energy.gov/edf/articles/letter-leadership-edf-2025-year-review-and-looking-forward-2026#_ftn1)) Thursday.
 
 The Department is planning to replace some of those investments with subsidies for natural gas and nuclear updates. As the Department of Energy reprioritizes what energy sources they want Americans to use, though, what energy sources is the Department of Energy using to keep the lights on in its own offices?
 
