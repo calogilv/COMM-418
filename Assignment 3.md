@@ -14,3 +14,7 @@ The Office of the Chief Financial Officer created 16 job titles, the second most
 The Department of Behavioral Health added nine job titles, including a psychology fellow, a harm reduction coordinator, a dental resident and a beautician. 
 
 (Note: If I were to continue the story, it would list the rest of the new job titles. I would also reach out to the people in the new positions to learn and report the reason the job now exists). 
+
+## Methodology ##
+
+I copied data from [here](https://opendata.dc.gov/datasets/dc-public-employee-salary/explore)
