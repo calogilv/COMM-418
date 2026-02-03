@@ -3,6 +3,8 @@ The University of the District of Columbia hired its first visiting professor in
 
 In total, Washington hired people to 200 new job titles last year, according to an analysis of a [government employee dataset](https://opendata.dc.gov/datasets/dc-public-employee-salary/explore). The new positions are spread across 40 departments or organizations in Washington's government.
 
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRgDY6nXMiXyZ8yaRvIGUXOyPIRxHnPJsJXUBpphephCkQomEc6rgJ1YUlgHJ5Ur_gO5SEh_Lt6p8jS/pubchart?oid=1093918227&amp;format=interactive"></iframe>
+
 The analysis includes positions titles that may be be newly named but have functionally existed before. For instance, Nicole Deaner became the first director of the Metro Police Department's Office of Communications. However, it's likely that someone else was coordinating the Office beforehand. (Note: In a real story, I would look into who this would have been but I could not find the information on a preliminary search).
 
 The University of the District of Columbia created 20 job titles in 2025, the most of any department or organization under Washington's local government. Those new roles include a service desk technician, a senior editor, a managing attorney and a development director. 
