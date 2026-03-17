@@ -1,0 +1,12 @@
+# The planet is overheating. Why is the news looking away? #
+By Kate Yoder
+
+Published by [Grist](https://grist.org/language/global-heating-climate-news-drought-chaos/)
+
+"The planet is overheating. Why is the news looking away?" uses several points of data but the most impressive, striking ones are the averages of articles relating to climate change that The New York Times, The Washington Post, The Wall Street Journal and The Los Angeles Times published since 2015.
+
+That data illustrates the point of the article — that news organizations aren't covering climate change — in a way that nothing else in the article does. Yoder introduces the data in the lead, noting that global coverage of climate change has dropped by 38% since an all-time high in 2021, and then follows-up by digging into the four aforementioned papers. Reporting and illustrating the specifics of that 38% drop by writing about The New York Times, The Washington Post, The Wall Street Journal and The Los Angeles Times shows the point or thesis of the story well because it's a specific and tangible number. When people read that The New York Times published 646 global warming articles in October 2021 and 221 global warming articles in January 2026, people can understand what that means; partly because they understand the unit (everyone knows what an article is) and the actual change between the numbers is drastic.
+
+I wish Yoder dug into the specific numbers a little bit more for that reason. I also like how naming the specific organizations and how their coverage has changed implies an accountability of the organizations. Other parts of the article focus on percent changes, which are useful, practical and do say a lot about the change in coverage, but may be less tangible to readers.
+
+Yoder also introduces the line chart of the four organizations shortly before explaining a timeline of how and why the change happened. Seeing the data over time through the line chart helps prepare the reader for that timeline section by solidifying the universe the story is working in. The reader sees the graph, notices the change and asks why that happened. Then, Yoder explains some possibilities of why it happened, starting in 2019. It would've been nice to see reporting of how environmentalism coverage changed between 2015 and 2019, since the graph starts in 2015. But Yoder does say journalists started more attention to climate change in 2019, in part because of Greta Thunberg and the school walkouts she inspired.  
