@@ -1,6 +1,6 @@
 Over 17,000 crashes in Washington have involved busses since 1973, according to an analysis of the Metropolitan Police Department's crash[ database uploaded to Open Data](https://opendata.dc.gov/datasets/DCGIS::crash-details-table/about).  That includes times when multiple busses are involved in one crash. 
 
-Some types of busses crashing more than others. WMATA's Metrobusses are likely part of the 11,274 "Bus" vehicles but it's unclear exactly how MPD labels vehicles in its database. 
+Some types of busses crashing more than others. WMATA's Metrobusses are likely part of the 11,274 "Bus" vehicles but it's unclear exactly how MPD labels vehicles in its database. It's also unclear what types of vehicles are categorized as "other" busses.
 
 The data is almost certainly an undercount. The earliest record of a bus crashing after 1973 is a July 22, 2000, crash near what is now a rehabilitation clinic in Ward 7.
 
