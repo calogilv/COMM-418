@@ -1,7 +1,6 @@
 # [Epic winter drought creates a bleak situation for farmers — and your food](https://www.washingtonpost.com/climate-environment/2026/04/07/drought-heat-farming-impacts-food-prices/) #
 By Sarah Kaplan
-
-Published April 7, 2026
+Published by The Washington Post on April 7, 2026
 
 The story centers around one data point - nearly 60% of the country being in drought as of March 31 - and expands into several more data points and anecdotes to show how that drought is affecting farmers and food, and how other climate records are affecting farmers and food across the nation. 
 
