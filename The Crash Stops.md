@@ -2,6 +2,8 @@
 ## After Metro removed some bus stops for safety, drivers are still crashing near them. ##
 By Caleb Ogilvie
 
+[Methodology](https://github.com/calogilv/COMM-418/blob/main/The%20Crash%20Stops%20Methodology.md)
+
 The Washington Metropolitan Area Transit Authority removed 527 bus stops on June 29, 2025, in part because of safety concerns. But in the eight months that followed, drivers crashed vehicles into pedestrians, buildings and other vehicles 3,890 times near the remaining bus stops in Washington, according to an analysis of crashes and bus stops.
 
 Bus stops don’t necessarily cause crashes, but some stops are in areas where, for one reason or another, people crash vehicles more frequently. If people wait at those bus stops, they may see — or become part of — more crashes than they would otherwise. Some of the crashes have caused injuries and, in five cases, people have died because of a crash near a bus stop.
